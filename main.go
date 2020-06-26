@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/afdolriski/golang-docker/database"
 	"github.com/gin-gonic/gin"
+	"github.com/langley/golang-docker/database"
 )
 
 func main() {

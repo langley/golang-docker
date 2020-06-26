@@ -1,4 +1,4 @@
-module github.com/afdolriski/golang-docker
+module github.com/langley/golang-docker
 
 go 1.13
 
