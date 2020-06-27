@@ -1,1 +1,3 @@
+# ignore the executable... just incase we build it.
+golang-docker
 vendor/
